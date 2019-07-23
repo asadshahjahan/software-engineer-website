@@ -2,10 +2,8 @@ import { faGithub, faFacebook, faInstagram, faLinkedinIn, faStackOverflow, faChr
 
 export const Introduction = {
 	name: 'M. Asad Shah Jahan',
-	full_name: 'Muhammad Asad Shah Jahan',
 	email: 'm.asad.s94@gmail.com',
 	website: 'asadshahjahan.github.io',
-	short_name: 'Asad',
 	tagline: 'I love to build softwares and my area of interest is Web software development',
 	social_icons: [
 		{
