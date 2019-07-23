@@ -1,12 +1,17 @@
 {
-  "name": "software_engineer_website_react",
+  "name": "personal_cra_site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "bootstrap": "^4.3.1",
-    "json-loader": "^0.5.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-github-btn": "^1.0.5",
     "react-scripts": "3.0.1",
     "reactstrap": "^8.0.1"
   },

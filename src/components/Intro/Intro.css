@@ -1,0 +1,84 @@
+.name {
+    font-size: 2em;
+    font-weight: 900;
+    margin-bottom: 5%;
+}
+.intro {
+    padding: 10%;
+    /* margin-left: 15%;
+    margin-top: 5%; */
+}
+@media only screen and (min-width: 992px){
+    .profile-picture {
+        border-radius: 50%;
+        margin-top: 0;
+        margin-bottom: 20px;
+        height: 200px;
+        width: 200px;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10%;
+    }
+}
+
+.profile-picture img {
+    display: block;
+}
+.email a, p a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: dotted 1px rgba(160, 160, 160, 0.65);
+    text-transform: uppercase;
+}
+
+.email a:hover, p a:hover  {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;
+}
+
+.main-hr {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+#footer .icons{
+    color: #aaaaaa;
+}
+
+ul.icons {
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.icons li {
+    display: inline-block;
+    padding: 0 1em 0 0;
+    font-size: 1.7em;
+}
+
+ul.icons li > * {
+    text-decoration: none;
+    border: 0;
+    color: black;
+}
+
+#footer .copyright {
+    color: #aaaaaa;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-size: 0.5em;
+    font-weight: 400;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+}

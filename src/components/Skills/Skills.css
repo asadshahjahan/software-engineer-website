@@ -1,0 +1,26 @@
+#skills .skill-icons{
+    color: #aaaaaa;
+}
+
+ul.skill-icons {
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.skill-icons li {
+    display: inline-block;
+    padding: 0 1em 0 0;
+    font-size: 5em;
+}
+
+ul.skill-icons li > * {
+    text-decoration: none;
+    border: 0;
+    color: black;
+}
+
+
+.small-font {
+    font-size: -2em;
+}
