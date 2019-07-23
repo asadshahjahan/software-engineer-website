@@ -4,7 +4,6 @@ export const Introduction = {
 	name: 'M. Asad Shah Jahan',
 	email: 'm.asad.s94@gmail.com',
 	website: 'asadshahjahan.github.io',
-	tagline: 'I love to build softwares and my area of interest is Web software development',
 	social_icons: [
 		{
 			link: 'https://github.com/asadshahjahan',
