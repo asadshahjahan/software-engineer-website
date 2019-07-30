@@ -1,5 +1,11 @@
 # Software Engineer Website (React)
 Software Engineer Website SPA built with react.
+## Upcoming features
+- Projects showcase
+- Portfolio with interactive icons for tools that are used in the project
+- Show more if there are more then `x` entries
+- Client/Customer/Manager/Peer Feedbacks
+- Achievements
 ## Installation Guide
 - Click on fork and star.
 - Follow this [link](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04) for downloading `nodejs` and `npm`.
