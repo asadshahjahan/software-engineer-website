@@ -1,11 +1,5 @@
 # Software Engineer Website (React)
 Software Engineer Website SPA built with react.
-## Upcoming features
-- Projects showcase
-- Portfolio with interactive icons for tools that are used in the project
-- Show more if there are more then `x` entries
-- Client/Customer/Manager/Peer Feedbacks
-- Achievements
 ## Installation Guide
 - Click on fork and star.
 - Follow this [link](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04) for downloading `nodejs` and `npm`.
@@ -32,7 +26,8 @@ src/
 - Now, find `social_icons` and update links of your Github, Facebook or StackOverflow accounts.
 - Now, find `export const Skills` and add your skills using reference of css classes from `https://konpa.github.io/devicon/`.
 - Now, update `Whats New`, `About`, `Experience` and `Education`.
-
+### Host website on Github
+- https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a
 ## Hall of Fame
 I have used ReactJS(create-react-app) for making this interactive webpage. Other then that, I have used following packages:
 - https://konpa.github.io/devicon/
