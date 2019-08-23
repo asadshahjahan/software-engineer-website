@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/software-engineer-website/static/css/main.e142610d.chunk.css",
+    "main.js": "/software-engineer-website/static/js/main.c4a4874e.chunk.js",
+    "main.js.map": "/software-engineer-website/static/js/main.c4a4874e.chunk.js.map",
+    "runtime~main.js": "/software-engineer-website/static/js/runtime~main.432f85b2.js",
+    "runtime~main.js.map": "/software-engineer-website/static/js/runtime~main.432f85b2.js.map",
+    "static/css/2.266e55a5.chunk.css": "/software-engineer-website/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d9891067.chunk.js": "/software-engineer-website/static/js/2.d9891067.chunk.js",
+    "static/js/2.d9891067.chunk.js.map": "/software-engineer-website/static/js/2.d9891067.chunk.js.map",
+    "index.html": "/software-engineer-website/index.html",
+    "precache-manifest.9fe779debf6f0a4e1d120b11e2da70c6.js": "/software-engineer-website/precache-manifest.9fe779debf6f0a4e1d120b11e2da70c6.js",
+    "service-worker.js": "/software-engineer-website/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/software-engineer-website/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.e142610d.chunk.css.map": "/software-engineer-website/static/css/main.e142610d.chunk.css.map",
+    "static/media/profile_picture.jpg": "/software-engineer-website/static/media/profile_picture.5ab86962.jpg"
+  }
+}
