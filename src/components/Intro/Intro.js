@@ -3,7 +3,6 @@ import Picture from '../../static/profile_picture.jpg';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Introduction } from '../../data/information';
-import GithubButtons from '../GithubButtons/GithubButtons';
 
 import './Intro.css';
 
@@ -28,7 +27,6 @@ const Intro = () => {
 						</li>
 					))}
 				</ul>
-				<GithubButtons />
 				<p className="copyright">&copy; {Introduction['name']} <a href="/">{Introduction['website']}</a>.</p>
 			</section>
 		</div>
